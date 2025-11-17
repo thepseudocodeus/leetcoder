@@ -42,4 +42,4 @@ Constraints
 
 ## Approach
 
-1. Do 10 LeetCode problems to personally understand the LeetCode problem-solution-behavior domain space.
+1. Do 10 LeetCode problems to personally understand the LeetCode problem-solution-behavior domain space.# leetcoder
